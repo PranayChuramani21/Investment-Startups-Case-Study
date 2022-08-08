@@ -1,4 +1,4 @@
-# Investment-Startups-Case-Study
+# Investment Startups Case Study
 This project depicts study of modern investments in initial startups using data science libraries.
 
 ### Description:
